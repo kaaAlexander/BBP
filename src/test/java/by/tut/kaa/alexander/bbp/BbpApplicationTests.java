@@ -1,4 +1,4 @@
-package by.tut.kaa.alexander.BBP;
+package by.tut.kaa.alexander.bbp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
